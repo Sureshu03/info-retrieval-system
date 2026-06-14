@@ -1,0 +1,1 @@
+A biword index stores consecutive term pairs such as machine learning and retrieval model. Biword methods are compact but can produce false positives for long phrases.

@@ -1,0 +1,1 @@
+Dictionary structures such as binary search trees and B trees support efficient lookup. B trees are usually faster on larger dictionaries because they reduce tree height.

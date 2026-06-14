@@ -1,0 +1,1 @@
+Text preprocessing often includes lowercasing, stop word removal, hyphen handling, stemming, and lemmatization. These steps influence retrieval quality.

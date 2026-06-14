@@ -1,0 +1,1 @@
+A positional index stores each term with document identifiers and token positions. Phrase queries are answered accurately by checking adjacency constraints.

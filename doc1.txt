@@ -1,0 +1,1 @@
+Information retrieval systems organize large text collections and return relevant documents for user queries. Efficient indexing is essential for fast search.

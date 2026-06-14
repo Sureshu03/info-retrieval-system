@@ -1,0 +1,6 @@
+query,relevant_docs
+phrase query processing,"doc2;doc7"
+spelling correction retrieval,"doc5"
+stemming lemmatization preprocessing,"doc4"
+biword false positives,"doc3"
+b tree dictionary lookup,"doc6"

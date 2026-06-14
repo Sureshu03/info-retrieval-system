@@ -1,0 +1,1 @@
+Tolerant retrieval supports wildcard queries and spelling correction. Edit distance can map a misspelled term to the closest vocabulary entry.

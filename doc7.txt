@@ -1,0 +1,1 @@
+Users may search for phrase query processing, inverse index creation, and document ranking. Retrieval systems must balance efficiency and effectiveness.

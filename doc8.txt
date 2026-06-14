@@ -1,0 +1,1 @@
+Neural re-ranking and semantic embeddings can improve search relevance beyond lexical matching, but they require additional computation and training data.
